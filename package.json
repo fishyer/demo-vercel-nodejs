@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "moment": "^2.29.3"
+  }
+}
